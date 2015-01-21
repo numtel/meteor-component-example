@@ -8,7 +8,6 @@ meteor-platform
 autopublish
 insecure
 iron:router
-manuelschoebel:wait-on-lib
-sharlon:6to5
-numtel:template-from-string
-numtel:es6-proxy
+numtel:publicsources
+less
+miro:preloader

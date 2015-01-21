@@ -1,0 +1,3 @@
+{
+  "hello": [ "hello/main.js", "hello/tpl.html", "hello/styles.less" ]
+}
