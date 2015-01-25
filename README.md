@@ -24,6 +24,10 @@ $ cd meteor-component-example
 $ meteor
 ```
 
+## Resources
+
+* [`numtel:privatesources` package](https://github.com/numtel/meteor-privatesources) - Create bundles for lazy-loading components, with authentication
+
 ## License
 
 [Unlicense](http://unlicense.org/)
