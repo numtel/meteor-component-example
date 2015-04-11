@@ -10,7 +10,7 @@ Instead of loading all templates on initial page load, it is possible to load te
 
 With `numtel:publicsources`, source files inside the `public` directory can be processed using the same packages that process all other source files.
 
-See [`publicsources.json`](publicsources.json) for the configuration of the lazy-loaded bundle.
+See [`site.publicsources.json`](site.publicsources.json) for the configuration of the lazy-loaded bundle.
 
 ## Installation
 
