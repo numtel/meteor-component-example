@@ -1,5 +1,9 @@
 # Meteor Component Example
 
+## Notice
+
+**:new: This example has been made obsolete by the new [`numtel:lazy-bundles` package](https://github.com/numtel/meteor-lazy-bundles).**
+
 This example recreates the default Meteor "Hello" counter except with the templates loaded on-demand using [`miro:preloader`](https://github.com/MiroHibler/meteor-preloader) and [`numtel:publicsources`](https://github.com/numtel/meteor-publicsources).
 
 ## Explanation
